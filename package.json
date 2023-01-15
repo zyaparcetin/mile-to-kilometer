@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zyaparcetin/miles-to-kilometers/issues"
   },
-  "homepage": "https://github.com/zyaparcetin/miles-to-kilometers#readme"
+  "homepage": "https://github.com/zyaparcetin/miles-to-kilometers#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
