@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zyaparcetin/miles-to-kilometers.git"
+    "url": "git+https://github.com/zyaparcetin/mile-to-kilometer.git"
   },
   "keywords": [
     "miles",
@@ -18,9 +18,9 @@
   "author": "Zeynep Yapar Cetin <yaparcetinzeynep@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zyaparcetin/miles-to-kilometers/issues"
+    "url": "https://github.com/zyaparcetin/mile-to-kilometer/issues"
   },
-  "homepage": "https://github.com/zyaparcetin/miles-to-kilometers#readme",
+  "homepage": "https://github.com/zyaparcetin/mile-to-kilometer#readme",
   "devDependencies": {
     "jest": "^29.3.1"
   }
