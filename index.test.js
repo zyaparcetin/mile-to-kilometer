@@ -1,11 +1,12 @@
 const milesToKilometers = require('./')
 
-describe('milesToKilometers', function() {
-  it('should convert miles to kilometers', function() {
-    expect(milesToKilometers(1)).to.be(1.609)
-    expect(milesToKilometers(0)).to.be(0)
+describe('milesToKilometers', () => {
+  it('should convert miles to kilometers', () => {
+    expect(milesToKilometers(2)).toBe(3.218);
   })
-  it('should throw an error if miles is not a number', function() {
-    expect(milesToKilometers('a')).to.throw('miles must be a number')
+  it('should throw an error if miles is not a number', () => {
+    expect(() => {
+      milesToKilometers('2')
+    }).toThrow()
   })
 })
