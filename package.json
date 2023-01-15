@@ -1,0 +1,20 @@
+{
+  "name": "miles-to-kilometers",
+  "version": "1.0.0",
+  "description": "Converts miles to kilometers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyaparcetin/miles-to-kilometers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyaparcetin/miles-to-kilometers/issues"
+  },
+  "homepage": "https://github.com/zyaparcetin/miles-to-kilometers#readme"
+}
