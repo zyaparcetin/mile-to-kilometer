@@ -4,14 +4,18 @@
   "description": "Converts miles to kilometers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "test-coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zyaparcetin/miles-to-kilometers.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "miles",
+    "kilometers"
+  ],
+  "author": "Zeynep Yapar Cetin <yaparcetinzeynep@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zyaparcetin/miles-to-kilometers/issues"
