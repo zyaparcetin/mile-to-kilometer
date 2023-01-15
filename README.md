@@ -1,8 +1,8 @@
-# miles-to-kilometers
+# mile-to-kilometer
 Converts miles to kilometers
 
 # Installation
-$ npm i miles-to-kilometers
+$ npm i mile-to-kilometer
 
 # Usage
 milesToKilometers(miles); // returns kilometers as a number. 
