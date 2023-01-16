@@ -7,6 +7,6 @@ describe('milesToKilometers', () => {
   it('should throw an error if miles is not a number', () => {
     expect(() => {
       milesToKilometers('2')
-    }).toThrow()
+    }).toThrow('miles must be a number!')
   })
 })
