@@ -1,9 +1,14 @@
 # mile-to-kilometer
-An npm library to convert miles to kilometers
+An npm library to convert miles to kilometers.
 ## &nbsp;
 ## Installation
 
 `$ npm i mile-to-kilometer`
+
+## &nbsp;
+## What is it?
+
+It is a simple library that converts miles to kilometers. 
 
 ## &nbsp;
 ## Usage
@@ -12,6 +17,7 @@ As with most npm libraries, you just need to import it in a file
 
 `require('mile-to-kilometer')();`
 
+## &nbsp;
 `milesToKilometers(miles); // returns kilometers as a number.`
 
 
@@ -23,7 +29,12 @@ Examples:
 
 `milesToKilometers(0); // returns 0`
 
-`milesToKilometers('a'); // throws Error('miles must be a number')`
+`milesToKilometers('a'); // throws Error('miles must be a number!')`
+
+## &nbsp;
+## Contribution
+This is a work in progress; I hope to be able to update soon. Or if you want to collaborate,  it's a library open to collaboration!
+
 ## &nbsp;
 ## License
 MIT License
