@@ -1,6 +1,6 @@
 {
   "name": "mile-to-kilometer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A npm library to convert miles to kilometers",
   "main": "index.js",
   "scripts": {
